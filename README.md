@@ -1,3 +1,5 @@
+## Dear Reviewer, please check the figures folder. Due to strange linking the corresponding plots are not displayed in the .md file, but they are all available in the figures folder. Thank you.
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
